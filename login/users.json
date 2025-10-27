@@ -1,0 +1,27 @@
+[
+    {
+        "username": "esteban",
+        "hash": "$2y$10$3T5WoygGZp4xTKinJUzn4.o7Gc8G\/ejaBX14qMhmHJgjd83PApCQm",
+        "created_at": "2025-10-10T15:29:37+02:00"
+    },
+    {
+        "username": "teban",
+        "hash": "$2y$10$bpkXeEwL9.wGls2Jz4IQsOfSgYvey7OpYsIEs5kpMcNpgII7WwI1i",
+        "created_at": "2025-10-10T16:22:26+02:00"
+    },
+    {
+        "username": "carmen",
+        "hash": "$2y$10$AHKvOrYPjnfR2sCu4aoxTutGP6i4dyhOdQfHgGyeNfgBRZNpP\/l6K",
+        "created_at": "2025-10-10T16:24:55+02:00"
+    },
+    {
+        "username": "angel",
+        "hash": "$2y$10$dryN7ZASMrLFoszBuzG8b.F485OuygnLi0377FOU5doIkvA9uj8te",
+        "created_at": "2025-10-10T16:30:04+02:00"
+    },
+    {
+        "username": "tebii",
+        "hash": "$2y$10$kVNU7IUVscIvWYbQcXMh4.xyalqdvqt13Ioka1Y5wKX9Ugot5lGWK",
+        "created_at": "2025-10-10T16:30:45+02:00"
+    }
+]
